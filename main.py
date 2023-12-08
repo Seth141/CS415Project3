@@ -1,6 +1,6 @@
 #########################
 # CS415 Project 3
-# By Seth Nuzum and Adam E
+# By Seth Nuzum and Adam Erskine
 #########################
 
 
